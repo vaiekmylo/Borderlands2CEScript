@@ -1,0 +1,18 @@
+0: ammo 
+1: white
+2: green
+3: blue
+4: purple
+5: lengendary - class mod
+6: e-tech
+8: lengendary - grenade mod
+9: lengendary
+10: lengendary -shield
+171: health
+181: money
+500: mission
+501: pink
+502: echo
+503: eridium
+504: shield booster
+506: raindbow
